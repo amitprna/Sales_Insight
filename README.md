@@ -15,17 +15,18 @@
 </h3>
 
    
-<h4>
+<h3>
 <details>
 <summary>
   Dashboard
 </summary>
  <h6>
-<ul>We import data from MYSql Database</ul>
+<ul>I have used MySQL Databse for the dataset</ul>
+<ul>After cleaning and transforming the data  created dashboard for sale insight </ul>
   
    
   ![image](https://user-images.githubusercontent.com/70321164/148066695-02d82213-d092-4e10-870e-5658ddd9b615.png)
   ![image](https://user-images.githubusercontent.com/70321164/148066637-05809538-a858-4738-a7b9-1bbaa3cb02eb.png)
    
 </h6
-</h4>
+</h3>
