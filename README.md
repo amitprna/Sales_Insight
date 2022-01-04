@@ -7,8 +7,6 @@
   Problem Statement
 </summary>
  <h6>
-<summary>
-</summary>
   AtliQ hardware is company which supply hardware to many clients. Company is facing issue with declining in sales so want to track the sales and insight.
   We need to create a power bi dashboard to provide sales insight
 </h6
