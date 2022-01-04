@@ -21,9 +21,5 @@
  <h6>
   AtliQ hardware is company which supply hardware to many clients. Company is facing issue with declining in sales so want to track the sales and insight.
   We need to create a power bi dashboard to provide sales insight
-   ![image](https://user-images.githubusercontent.com/70321164/148066695-02d82213-d092-4e10-870e-5658ddd9b615.png)
-
-   ![image](https://user-images.githubusercontent.com/70321164/148066637-05809538-a858-4738-a7b9-1bbaa3cb02eb.png)
-
 </h6
 </h2>
