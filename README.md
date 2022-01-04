@@ -12,11 +12,11 @@
 </h6
 </h2>
 
-# 
+   
 <h2>
 <details>
 <summary>
-  Dashboard
+  Problem Statement
 </summary>
  <h6>
   AtliQ hardware is company which supply hardware to many clients. Company is facing issue with declining in sales so want to track the sales and insight.
